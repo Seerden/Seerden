@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently building (https://github.com/seerden/Mana)[Mana], a spaced-repetition (language) learning application, using the MERN stack.
+Currently building [Mana](https://github.com/seerden/Mana), a spaced-repetition (language) learning application, using the MERN stack.
