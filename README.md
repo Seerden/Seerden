@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christiaan. I work as a frontend web developer at Belsimpel, using a stack consisting of tech like React, TypeScript, Jest, styled-components.
+I'm Christiaan. I'm a full-time frontend dev working with Vue at the moment, and I have extensive experience with React and Node as well.
 
 When it comes to programming in my spare time, I focus on a few personal full-stack projects:
 - [Rack](https://github.com/seerden/rack): exercise (weightlifting-focussed for now) progress and gym session tracking (TypeScript - React, Node, PostgreSQL).
